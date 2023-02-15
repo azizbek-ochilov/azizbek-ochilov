@@ -13,9 +13,9 @@
 
 <div align="center">
     <!-- https://github.com/anuraghazra/github-readme-stats -->
-    <img alt="GitHub Stats" width="49%" src="https://github-readme-stats.vercel.app/api?username=xakimov1610&theme=algolia&hide_border=true&count_private=true&show_icons=true">
+    <img alt="GitHub Stats" width="49%" src="https://github-readme-stats.vercel.app/api?username=azizbek-ochilov&theme=algolia&hide_border=true&count_private=true&show_icons=true">
     <!-- https://github.com/DenverCoder1/github-readme-streak-stats -->
-    <img alt="GitHub Streak" width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=xakimov1610&theme=algolia&hide_border=true">
+    <img alt="GitHub Streak" width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=azizbe-ochilov&theme=algolia&hide_border=true">
 
 </div>
 
@@ -23,18 +23,18 @@
 
   <div align="center">
     <!-- https://github.com/Ashutosh00710/github-readme-activity-graph -->
-    <img alt="GitHub Activity Graph" width="98%" src="https://activity-graph.herokuapp.com/graph?username=xakimov1610&theme=react-dark&area=true&hide_border=true&custom_title=Contributions%20Graph">
+    <img alt="GitHub Activity Graph" width="98%" src="https://activity-graph.herokuapp.com/graph?username=azizbek-ochilov&theme=react-dark&area=true&hide_border=true&custom_title=Contributions%20Graph">
   </div>
 
-<!-- [![Xakimov's Streak](https://github-readme-streak-stats.herokuapp.com?user=Xakimov1610&theme=dark&date_format=M%20j%5B%2C%20Y%5D&border=FFFFFF&ring=3722DD)](https://git.io/streak-stats)
+<!-- [![Xakimov's Streak](https://github-readme-streak-stats.herokuapp.com?user=azizbek-ochilov&theme=dark&date_format=M%20j%5B%2C%20Y%5D&border=FFFFFF&ring=3722DD)](https://git.io/streak-stats)
 
-[![](https://komarev.com/ghpvc/?username=Xakimov1610&color=orange&label=Profile%20Views)](https://github.com/Xakimov1610/Xakimov1610)
-[![](https://img.shields.io/github/followers/Xakimov1610?label=GitHub%20Followers)](https://github.com/Xakimov1610) -->
+[![](https://komarev.com/ghpvc/?username=azizbek-ochilov&color=orange&label=Profile%20Views)](https://github.com/azizbek-ochilov/azizbek-ochilov)
+[![](https://img.shields.io/github/followers/azizbek-ochilov?label=GitHub%20Followers)](https://github.com/azizbek-ochilov/azizbek-ochilov) -->
 
 
 <div align="center">
-  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=xakimov1610&layout=compact&theme=tokionight&text_color=777777&bg_color=0D1117&border_color=0D1117&langs_count=12" height="90%">
+  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=azizbek-ochilov&layout=compact&theme=tokionight&text_color=777777&bg_color=0D1117&border_color=0D1117&langs_count=12" height="90%">
 </div>
 <hr>
 
-<h3 align="center">VISITOR COUNT :  <img align="center" src="https://profile-counter.glitch.me/xakimov1610/count.svg"/></h3>
+<h3 align="center">VISITOR COUNT :  <img align="center" src="https://profile-counter.glitch.me/azizbek-ochilov/count.svg"/></h3>
