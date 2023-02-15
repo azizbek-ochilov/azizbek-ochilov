@@ -9,20 +9,6 @@
 # GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=azizbek-ochilov&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 
-<div>
-    <!-- https://github.com/Ashutosh00710/github-readme-activity-graph -->
-    <img alt="GitHub Activity Graph" width="98%" src="https://activity-graph.herokuapp.com/graph?username=azizbek-ochilov&theme=react-dark&area=true&hide_border=true&custom_title=Contributions%20Graph">
-  </div>
-
 ![Snake animation](https://github.com/mirsaid-mirzohidov/mirsaid-mirzohidov/blob/output/github-contribution-grid-snake.svg)
 
-<!-- [![Azizbek's Streak](https://github-readme-streak-stats.herokuapp.com?user=azizbek-ochilov&theme=dark&date_format=M%20j%5B%2C%20Y%5D&border=FFFFFF&ring=3722DD)](https://git.io/streak-stats)
 
-[![](https://komarev.com/ghpvc/?username=azizbek-ochilov&color=orange&label=Profile%20Views)](https://github.com/azizbek-ochilov/azizbek-ochilov)
-[![](https://img.shields.io/github/followers/azizbek-ochilov?label=GitHub%20Followers)](https://github.com/azizbek-ochilov/azizbek-ochilov) -->
-
-
-<div align="center">
-  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=azizbek-ochilov&layout=compact&theme=tokionight&text_color=777777&bg_color=0D1117&border_color=0D1117&langs_count=12" height="90%">
-</div>
-<hr>
