@@ -9,12 +9,12 @@
 # GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=azizbek-ochilov&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 
-![Snake animation](https://github.com/mirsaid-mirzohidov/mirsaid-mirzohidov/blob/output/github-contribution-grid-snake.svg)
-
-  <div align="center">
+<div>
     <!-- https://github.com/Ashutosh00710/github-readme-activity-graph -->
     <img alt="GitHub Activity Graph" width="98%" src="https://activity-graph.herokuapp.com/graph?username=azizbek-ochilov&theme=react-dark&area=true&hide_border=true&custom_title=Contributions%20Graph">
   </div>
+
+![Snake animation](https://github.com/mirsaid-mirzohidov/mirsaid-mirzohidov/blob/output/github-contribution-grid-snake.svg)
 
 <!-- [![Azizbek's Streak](https://github-readme-streak-stats.herokuapp.com?user=azizbek-ochilov&theme=dark&date_format=M%20j%5B%2C%20Y%5D&border=FFFFFF&ring=3722DD)](https://git.io/streak-stats)
 
