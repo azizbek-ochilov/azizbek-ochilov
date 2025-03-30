@@ -15,9 +15,11 @@
 - **Other Tools:** Power Point, Canva
 
 ## Latest Projects  
-🔸 **Power BI Dashboard:** [Link to Project]  
-🔸 **SQL Data Analysis:** [Link to Project]  
-🔸 **Econometrics Research:** [Link to Project]  
+🔸 **SQL, Power BI Dashboards: [Traffic Monitoring Project](https://github.com/azizbek-ochilov/Traffic-Accident-and-Congestion-Monitoring) || [User Activity Analysis Project](https://github.com/azizbek-ochilov/User-Activity-Analysis) || [Customer Analysis Project](https://github.com/azizbek-ochilov/Customer-Analysis-Dashboard)**
+
+🔸 **Econometrics Research: [Life Expectancy Analysis](https://github.com/azizbek-ochilov/Econometric-Analysis-of-Life-Expectancy)**
+
+🔸 **Microsoft Excel Analysis: [Car Sales Analysis](https://github.com/azizbek-ochilov/Car-Sales-Analysis)**
 
 ## Let's Connect!  
 🔗 [LinkedIn](https://www.linkedin.com/in/azizbek-ochilov)  
